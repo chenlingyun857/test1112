@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hee12ofn5nQ=",
+  "dgSpecHash": "A3ETaiVpW/U=",
   "success": true,
-  "projectFilePath": "D:\\LearnData\\netCore\\netCore\\netCore.csproj",
+  "projectFilePath": "D:\\gitTest\\netCore\\netCore\\netCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"

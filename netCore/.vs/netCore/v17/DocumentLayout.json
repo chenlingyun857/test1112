@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LearnData\\netCore\\",
+  "WorkspaceRootPath": "D:\\gitTest\\netCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\linq\\\u59D4\u6258\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\linq\\\u59D4\u6258\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\linq\\\u59D4\u6258\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\di\\data1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\di\\data1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\di\\data1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\linq\\recorddata\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\linq\\recorddata\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\linq\\recorddata\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\linq\\data2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\linq\\data2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\linq\\data2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\linq\\data1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\linq\\data1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\linq\\data1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\linq\\test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\linq\\test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\linq\\test\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\learndata\\netcore\\netcore\\di\\data1\\expansion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|d:\\gittest\\netcore\\netcore\\di\\data1\\expansion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D380C59-7301-4D47-A0A0-4091AAF8000E}|netCore\\netCore.csproj|solutionrelative:netcore\\di\\data1\\expansion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +42,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "main.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\Linq\\test\\main.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\Linq\\test\\main.cs",
               "RelativeDocumentMoniker": "netCore\\Linq\\test\\main.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\Linq\\test\\main.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\Linq\\test\\main.cs",
               "RelativeToolTip": "netCore\\Linq\\test\\main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "main.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\Linq\\recordData\\main.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\Linq\\recordData\\main.cs",
               "RelativeDocumentMoniker": "netCore\\Linq\\recordData\\main.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\Linq\\recordData\\main.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\Linq\\recordData\\main.cs",
               "RelativeToolTip": "netCore\\Linq\\recordData\\main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "main.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\Linq\\data2\\main.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\Linq\\data2\\main.cs",
               "RelativeDocumentMoniker": "netCore\\Linq\\data2\\main.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\Linq\\data2\\main.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\Linq\\data2\\main.cs",
               "RelativeToolTip": "netCore\\Linq\\data2\\main.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\DI\\data1\\main.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\DI\\data1\\main.cs",
               "RelativeDocumentMoniker": "netCore\\DI\\data1\\main.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\DI\\data1\\main.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\DI\\data1\\main.cs",
               "RelativeToolTip": "netCore\\DI\\data1\\main.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAwBMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Expansion.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\DI\\data1\\Expansion.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\DI\\data1\\Expansion.cs",
               "RelativeDocumentMoniker": "netCore\\DI\\data1\\Expansion.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\DI\\data1\\Expansion.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\DI\\data1\\Expansion.cs",
               "RelativeToolTip": "netCore\\DI\\data1\\Expansion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +120,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\Program.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\Program.cs",
               "RelativeDocumentMoniker": "netCore\\Program.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\Program.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\Program.cs",
               "RelativeToolTip": "netCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-15T07:36:03.095Z",
               "EditorCaption": ""
@@ -121,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "main.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\Linq\\data1\\main.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\Linq\\data1\\main.cs",
               "RelativeDocumentMoniker": "netCore\\Linq\\data1\\main.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\Linq\\data1\\main.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\Linq\\data1\\main.cs",
               "RelativeToolTip": "netCore\\Linq\\data1\\main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,14 +145,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cs",
-              "DocumentMoniker": "D:\\LearnData\\netCore\\netCore\\Linq\\\u59D4\u6258\\main.cs",
+              "DocumentMoniker": "D:\\gitTest\\netCore\\netCore\\Linq\\\u59D4\u6258\\main.cs",
               "RelativeDocumentMoniker": "netCore\\Linq\\\u59D4\u6258\\main.cs",
-              "ToolTip": "D:\\LearnData\\netCore\\netCore\\Linq\\\u59D4\u6258\\main.cs",
+              "ToolTip": "D:\\gitTest\\netCore\\netCore\\Linq\\\u59D4\u6258\\main.cs",
               "RelativeToolTip": "netCore\\Linq\\\u59D4\u6258\\main.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvwwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:34:25.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-15T07:34:25.631Z"
             }
           ]
         }

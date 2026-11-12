@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LearnData\\netCore\\netCore\\netCore.csproj": {}
+    "D:\\gitTest\\netCore\\netCore\\netCore.csproj": {}
   },
   "projects": {
-    "D:\\LearnData\\netCore\\netCore\\netCore.csproj": {
+    "D:\\gitTest\\netCore\\netCore\\netCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LearnData\\netCore\\netCore\\netCore.csproj",
+        "projectUniqueName": "D:\\gitTest\\netCore\\netCore\\netCore.csproj",
         "projectName": "netCore",
-        "projectPath": "D:\\LearnData\\netCore\\netCore\\netCore.csproj",
+        "projectPath": "D:\\gitTest\\netCore\\netCore\\netCore.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\LearnData\\netCore\\netCore\\obj\\",
+        "outputPath": "D:\\gitTest\\netCore\\netCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\Administrator\\vs2022\\utils\\NuGetPackages"
