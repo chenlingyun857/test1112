@@ -30,7 +30,7 @@ internal class Program
                 Linq.委托.main.start();
                 break;
             default:
-                Console.WriteLine("未找到指定类型ttt！");
+                Console.WriteLine("未找到指定类型ttfesfes t！");
                 break;
         }
     }
