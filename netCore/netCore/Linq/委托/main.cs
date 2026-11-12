@@ -64,6 +64,7 @@ namespace netCore.Linq.委托
         public static void wucan()
         {
             Console.WriteLine("这是Action无参数和返回值的委托");
+            Console.WriteLine("这是Action无参数和返回值的委托");
         }
         public static string tests(string str, string desc)
         {
