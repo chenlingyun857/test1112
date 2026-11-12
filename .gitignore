@@ -1,0 +1,7 @@
+# 忽略 Visual Studio 自动生成的文件夹
+.vs/
+**/.vs/
+bin/
+obj/
+**/bin/
+**/obj/
